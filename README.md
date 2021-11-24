@@ -8,13 +8,17 @@
 [![Instagram Badge](https://img.shields.io/badge/-instagram-green?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/gabstabile)]("https://www.instagram.com/g.s.stabile/")
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/gabstabile)]("https://www.linkedin.com/in/gabriel-stabile")
 <div>
+
   
+<span align="center">
+ 
+## Seja bem vindo, eu sou o Gabriel! <img src="https://user-images.githubusercontent.com/92516683/143255886-3ec90107-5088-4004-9ff7-08d4d135547e.gif" width="30px">
+
+  </span>
+  
+  
+
 <h3 align="center">  <br>
-
-Seja bem vindo, eu sou o Gabriel! 🇧🇷
-<br>
-
-</h3>
 
 ```
 Apaixonado por tecnologia e amante de criptomoeda, 
