@@ -1,6 +1,6 @@
 <h4 align="center">
 
-![giphy](https://user-images.githubusercontent.com/92516683/143132961-e9fcba3e-d7d5-4c25-b4a2-417d022bf45c.gif)
+![giphy](https://user-images.githubusercontent.com/92516683/143147972-9a7e8488-9be7-4f25-a9b4-7169d4543fea.gif)
   
   <hr> 
   
@@ -16,6 +16,7 @@ Meus dados do Github
 [![Instagram Badge](https://img.shields.io/badge/-instagram-green?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/arthurspk)](https://www.instagram.com/g.s.stabile/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/gabriel-stabile)
 
+    
    ## Meus dados do Github
 <h/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabStabile&theme=dark&show_icons=true)
