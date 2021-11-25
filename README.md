@@ -2,9 +2,9 @@
 
 ![giphy](https://user-images.githubusercontent.com/92516683/143147972-9a7e8488-9be7-4f25-a9b4-7169d4543fea.gif)
 
-[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/gabstabile)]("https://www.facebook.com/gabriel.sstabile/")
-[![Instagram Badge](https://img.shields.io/badge/-instagram-green?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/gabstabile)]("https://www.instagram.com/g.s.stabile/")
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/gabstabile)]("https://www.linkedin.com/in/gabriel-stabile")
+[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/gabstabile)](https://www.facebook.com/gabriel.sstabile/)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-green?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/gabstabile)](https://www.instagram.com/g.s.stabile/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/gabstabile)](https://www.linkedin.com/in/gabriel-stabile)
 <h/>
   
 <span align="center">
