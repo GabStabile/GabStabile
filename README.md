@@ -8,7 +8,7 @@
 <h/>
   
 <span align="center">
-## Seja bem vindo, eu sou o Gabriel! <img src="https://user-images.githubusercontent.com/92516683/143255886-3ec90107-5088-4004-9ff7-08d4d135547e.gif" width="20px">
+Seja bem vindo, eu sou o Gabriel! <img src="https://user-images.githubusercontent.com/92516683/143255886-3ec90107-5088-4004-9ff7-08d4d135547e.gif" width="20px">
 </span>  
 
 <h3 align="center">
@@ -20,7 +20,7 @@ estudante de Análise e Desenvolvimento de Sistema pela FIT - Faculdade Impacta 
 <h/>
 
   
-## Startando
+## Startando os estudos
   <img align="center" alt="Rafa-Js" height="30" width="30" src="https://user-images.githubusercontent.com/92516683/143494989-c2c4914d-bfc9-4fc3-a4ff-4b99e94490df.png">
   
   <img align="center" alt="Rafa-Ts" height="30" width="30" src="https://user-images.githubusercontent.com/92516683/143495014-7bc164ee-8e4a-4467-8bae-081fc74976ae.png">
@@ -30,3 +30,4 @@ estudante de Análise e Desenvolvimento de Sistema pela FIT - Faculdade Impacta 
 ## Meus dados do Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabstabile&theme=graywhite)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabstabile&layout=compact&theme=graywhite)]("https://github.com/gabstabile")
+![Snake animation](https://github.com/gabstabile/gabstabile/blob/output/github-contribution-grid-snake.svg)
