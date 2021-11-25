@@ -19,9 +19,11 @@ estudante de Análise e Desenvolvimento de Sistema pela FIT - Faculdade Impacta 
 ```
 <h/>
 
+  
 ## Startando
-  <img align="center" alt="Rafa-Js" height="30" width="30" src="https://user-images.githubusercontent.com/92516683/143494330-96972877-e788-4dcd-90d8-5d2c6d7c295f.png">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="30" src="https://user-images.githubusercontent.com/92516683/143494989-c2c4914d-bfc9-4fc3-a4ff-4b99e94490df.png">
+  
+  <img align="center" alt="Rafa-Ts" height="30" width="30" src="https://user-images.githubusercontent.com/92516683/143495014-7bc164ee-8e4a-4467-8bae-081fc74976ae.png">
   
 <h/>
   
