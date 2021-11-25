@@ -18,19 +18,14 @@ Apaixonado por tecnologia, amante de criptomoeda, futuro DEV e
 estudante de Análise e Desenvolvimento de Sistema pela FIT - Faculdade Impacta de Tecnologia.
 ```
 <h/>
-
   
 ## Startando os estudos💻
-  <img align="center" alt="Rafa-Js" height="30" width="30" src="https://user-images.githubusercontent.com/92516683/143494989-c2c4914d-bfc9-4fc3-a4ff-4b99e94490df.png">
-  
-  <img align="center" alt="Rafa-Ts" height="30" width="30" src="https://user-images.githubusercontent.com/92516683/143495014-7bc164ee-8e4a-4467-8bae-081fc74976ae.png">
+<img align="center" alt="Rafa-Js" height="30" width="30" src="https://user-images.githubusercontent.com/92516683/143494989-c2c4914d-bfc9-4fc3-a4ff-4b99e94490df.png">
+<img align="center" alt="Rafa-Ts" height="30" width="30" src="https://user-images.githubusercontent.com/92516683/143495014-7bc164ee-8e4a-4467-8bae-081fc74976ae.png">
   
 <h/>
   
 ## Meus dados do Github
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabstabile&theme=graywhite)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabstabile&layout=compact&theme=graywhite)]("https://github.com/gabstabile")
-
- <div>
-   
-  ![Snake animation](https://github.com/GabStabile/GabStabile/blob/output/github-contribution-grid-snake.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabstabile&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabstabile&layout=compact&theme=dark)]("https://github.com/gabstabile") 
+![Snake animation](https://github.com/GabStabile/GabStabile/blob/output/github-contribution-grid-snake.svg)
