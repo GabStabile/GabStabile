@@ -8,7 +8,7 @@
 <h/>
   
 <span align="center">
-Seja bem vindo, eu sou o Gabriel! <img src="https://user-images.githubusercontent.com/92516683/143255886-3ec90107-5088-4004-9ff7-08d4d135547e.gif" width="20px">
+Eu sou o Gabriel, bem vindo! <img src="https://user-images.githubusercontent.com/92516683/143255886-3ec90107-5088-4004-9ff7-08d4d135547e.gif" width="15px">
 </span>  
 
 <h3 align="center">
