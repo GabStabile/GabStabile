@@ -27,6 +27,7 @@ estudante de Análise e Desenvolvimento de Sistema pela FIT - Faculdade Impacta 
    <img align="center" title="Photoshop" alt="Gab-Ps" height="30" width="30" src="https://user-images.githubusercontent.com/92516683/144520593-7e7b5d72-9cec-4b01-a44a-34e9d0bb10ee.png">
 <br /> 
 </kbd>
+  
 <kbd align="center">
 <kbd>Estudando:</kbd>
  <br />
@@ -35,6 +36,7 @@ estudante de Análise e Desenvolvimento de Sistema pela FIT - Faculdade Impacta 
   <img align="center" title="C#" alt="Gab-Csharp" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  <br />
 </kbd> 
+  
 <kbd align="center">
 <kbd>Interesse em:</kbd> 
      <br />
