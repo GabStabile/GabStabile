@@ -32,8 +32,8 @@ estudante de Análise e Desenvolvimento de Sistema pela FIT - Faculdade Impacta 
 <kbd>Estudando:</kbd>
  <br />
  <br />
-      <img align="center" title="Java" alt="React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-      <img align="center" title="C#" alt="React8" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+      <img align="center" title="Java" alt="Gab-Java" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+      <img align="center" title="C#" alt="Gab-Csharp" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  <br />
  <br />
 </kbd> 
