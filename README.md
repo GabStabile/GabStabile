@@ -25,7 +25,6 @@ estudante de Análise e Desenvolvimento de Sistema pela FIT - Faculdade Impacta 
    <br />
    <br />
    <img align="center" title="Photoshop" alt="Gab-Ps" height="30" width="30" src="https://user-images.githubusercontent.com/92516683/144520593-7e7b5d72-9cec-4b01-a44a-34e9d0bb10ee.png">
-<br />
 <br /> 
 </kbd>
 <kbd align="center">
@@ -34,7 +33,6 @@ estudante de Análise e Desenvolvimento de Sistema pela FIT - Faculdade Impacta 
  <br />
   <img align="center" title="Java" alt="Gab-Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" title="C#" alt="Gab-Csharp" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- <br />
  <br />
 </kbd> 
 <kbd align="center">
@@ -46,7 +44,6 @@ estudante de Análise e Desenvolvimento de Sistema pela FIT - Faculdade Impacta 
       <img align="center" title="Html" alt="Gab-Html" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" title="SQL" alt="Gab-SQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <br />
- <br />
  </kbd>
 
 <h/>
