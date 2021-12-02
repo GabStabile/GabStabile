@@ -19,13 +19,47 @@ estudante de Análise e Desenvolvimento de Sistema pela FIT - Faculdade Impacta 
 ```
 <h/>
   
-## Startando os estudos💻
-<img align="center" alt="Gab-Js" height="30" width="30" src="https://user-images.githubusercontent.com/92516683/143494989-c2c4914d-bfc9-4fc3-a4ff-4b99e94490df.png">
-<img align="center" alt="Gab-C#" height="30" width="30" src="https://user-images.githubusercontent.com/92516683/143495014-7bc164ee-8e4a-4467-8bae-081fc74976ae.png">
-  
+## Skills Set🧠
+ <kbd align="center">
+<kbd>Conhecimento em:</kbd>
+   <br />
+   <br />
+   
+<br />
+<br /> 
+</kbd>
+<kbd align="center">
+<kbd>Estudando:</kbd>
+ <br />
+ <br />
+      <img align="center" title="Java" alt="React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+      <img align="center" title="C#" alt="React8" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ <br />
+ <br />
+</kbd> 
+<kbd align="center">
+<kbd>Interesse em:</kbd> 
+     <br />
+     <br />
+      <img align="center" title="Git" alt="Gab-Css" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+      <img align="center" title="Css" alt="Gab-Css" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img align="center" title="Html" alt="Gab-Html" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img align="center" title="SQL" alt="Gab-SQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <br />
+ <br />
+ </kbd>
+
 <h/>
   
 ## Meus dados do Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabstabile&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabstabile&layout=compact&theme=dark)]("https://github.com/gabstabile") 
-![Snake animation](https://github.com/GabStabile/GabStabile/blob/output/github-contribution-grid-snake.svg)
+  
+<p align="center"> 
+
+ ## Total de visitas no meu perfil :detective: <br>
+ <p align="center"> 
+<img alingn="center" src="https://profile-counter.glitch.me/gabstabile/count.svg" />
+  </p>
+
+</p>
