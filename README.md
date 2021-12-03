@@ -65,7 +65,8 @@ estudante de Análise e Desenvolvimento de Sistema pela FIT - Faculdade Impacta 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabstabile&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabstabile&layout=compact&theme=dark)]("https://github.com/gabstabile") 
   
-<p align="center"> 
+<p align="center">
+
 ## Total de visitas no meu perfil :detective: <br>
 <p align="center"> 
 <img alingn="center" src="https://profile-counter.glitch.me/gabstabile/count.svg" />
