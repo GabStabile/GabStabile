@@ -34,7 +34,7 @@ estudante de Análise e Desenvolvimento de Sistema pela FIT - Faculdade Impacta 
 <p/>
 
 <kbd align="center">
-<kbd>Estudando:</kbd> <br />
+<kbd>Estudando:</kbd>
 <br />
 <br />
   <img align="center" title="Java" alt="Gab-Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
