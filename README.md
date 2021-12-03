@@ -20,45 +20,54 @@ estudante de Análise e Desenvolvimento de Sistema pela FIT - Faculdade Impacta 
 <h/>
   
 ## Skills Set🧠
- <kbd align="center">
+<kbd align="center">
 <kbd>Conhecimento em:</kbd>
-   <br />
-    <br />
+<br />
+<br />
    <img align="center" title="Photoshop" alt="Gab-Ps" height="30" width="30" src="https://user-images.githubusercontent.com/92516683/144520593-7e7b5d72-9cec-4b01-a44a-34e9d0bb10ee.png">
-<br /> 
+<br />
+<br />
 </kbd>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
+<P>
+<p/>
+
 <kbd align="center">
 <kbd>Estudando:</kbd> <br />
-   <br />
+<br />
+<br />
   <img align="center" title="Java" alt="Gab-Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" title="C#" alt="Gab-Csharp" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" title="Git" alt="Gab-Git" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
- <br />
+<br />
+<br />
 </kbd> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<p>
+<p/>
+
 <kbd align="center">
 <kbd>Interesse em:</kbd> 
-   <br />
-  <br />
-      <img align="center" title="Css" alt="Gab-Css" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" title="Html" alt="Gab-Html" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" title="SQL" alt="Gab-SQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <br />
- </kbd>
+<br />
+<br />
+  <img align="center" title="Css" alt="Gab-Css" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" title="Html" alt="Gab-Html" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" title="SQL" alt="Gab-SQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<br />
+<br />
+</kbd>
 
 <h/>
-  
+ 
 ## Meus dados do Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabstabile&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabstabile&layout=compact&theme=dark)]("https://github.com/gabstabile") 
   
 <p align="center"> 
-
- ## Total de visitas no meu perfil :detective: <br>
- <p align="center"> 
+## Total de visitas no meu perfil :detective: <br>
+<p align="center"> 
 <img alingn="center" src="https://profile-counter.glitch.me/gabstabile/count.svg" />
-  </p>
-
+</p>
 </p>
