@@ -27,17 +27,17 @@ estudante de Análise e Desenvolvimento de Sistema pela FIT - Faculdade Impacta 
    <img align="center" title="Photoshop" alt="Gab-Ps" height="30" width="30" src="https://user-images.githubusercontent.com/92516683/144520593-7e7b5d72-9cec-4b01-a44a-34e9d0bb10ee.png">
 <br /> 
 </kbd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <kbd align="center">
-<kbd>Estudando:</kbd>
- <br />
+<kbd>Estudando:</kbd> <br />
+
    <br />
   <img align="center" title="Java" alt="Gab-Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" title="C#" alt="Gab-Csharp" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" title="Git" alt="Gab-Git" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <br />
 </kbd> 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <kbd align="center">
 <kbd>Interesse em:</kbd> 
    <br />
