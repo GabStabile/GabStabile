@@ -34,6 +34,7 @@ estudante de Análise e Desenvolvimento de Sistema pela FIT - Faculdade Impacta 
    <br />
   <img align="center" title="Java" alt="Gab-Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" title="C#" alt="Gab-Csharp" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" title="Git" alt="Gab-Git" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <br />
 </kbd> 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -41,7 +42,6 @@ estudante de Análise e Desenvolvimento de Sistema pela FIT - Faculdade Impacta 
 <kbd>Interesse em:</kbd> 
    <br />
   <br />
-      <img align="center" title="Git" alt="Gab-Css" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
       <img align="center" title="Css" alt="Gab-Css" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img align="center" title="Html" alt="Gab-Html" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" title="SQL" alt="Gab-SQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
