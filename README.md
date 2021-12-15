@@ -27,6 +27,7 @@ estudante de Análise e Desenvolvimento de Sistema pela FIT - Faculdade Impacta 
    <img align="center" title="Photoshop" alt="Gab-Ps" height="30" width="30" src="https://user-images.githubusercontent.com/92516683/144520593-7e7b5d72-9cec-4b01-a44a-34e9d0bb10ee.png">
    <img align="center" title="Git" alt="Gab-Git" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" title="GitHub" alt="Gab-GitHub" height="30" width="30" src="https://user-images.githubusercontent.com/92516683/145587665-224a3bc9-c704-4a13-afb1-b66f2b2a1163.png">
+  <img align="center" title="Visual Studio Code" alt="Gab-VisualStudioCode" height="30" width="30" src="https://user-images.githubusercontent.com/92516683/146268666-c67492d0-2438-4bb4-a97e-546aaf72e148.png">
 <br />
 <br />
 </kbd>
