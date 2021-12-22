@@ -72,6 +72,6 @@ estudante de Análise e Desenvolvimento de Sistema pela FIT - Faculdade Impacta 
 
 ## Total de visitas no meu perfil :detective: <br>
 <p align="center"> 
-<img alingn="center" src="https://profile-counter.glitch.me/gabstabile/count.svg" />
+<img alingn="center" src="https://profile-counter.glitch.me/gabstabile/count.svg"/>
 </p>
 </p>
