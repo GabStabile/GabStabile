@@ -66,7 +66,8 @@ estudante de Análise e Desenvolvimento de Sistema pela FIT - Faculdade Impacta 
  
 ## Meus dados do Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabstabile&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabstabile&layout=compact&theme=dark)]("https://github.com/gabstabile") 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabstabile&layout=compact&langs_count=7&theme=dark)]("https://github.com/GabStabile")
+  
   
 <p align="center">
 
