@@ -43,10 +43,7 @@ estudante de Análise e Desenvolvimento de Sistema pela FIT - Faculdade Impacta 
 <br />
 <br />
 </kbd> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-## Em atualização...
-<img align="right" alt="Gab-hello" height="150" style="border-radius:180px;" src="https://user-images.githubusercontent.com/92516683/152378804-952b129e-476f-4c24-a042-ed39134a14ce.gif">
- 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <p>
 <p/>
 <kbd align="center">
