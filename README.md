@@ -15,7 +15,7 @@ Eu sou o Gabriel, bem vindo! <img alt="Gab-Js" src="https://user-images.githubus
 
 ```
 Apaixonado por tecnologia, amante de criptomoeda, futuro DEV, estudante de 
-Análise e Desenvolvimento de Sistema pela FIT - Faculdade Impacta de Tecnologia e sou DIO Campus Expert.
+Análise e Desenvolvimento de Sistema pela Faculdade Impacta de Tecnologia (FIT) e sou DIO Campus Expert.
 ```
 <h/>
   
