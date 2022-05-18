@@ -2,6 +2,8 @@
 
 ![giphy](https://user-images.githubusercontent.com/92516683/143147972-9a7e8488-9be7-4f25-a9b4-7169d4543fea.gif)
 
+   <a href="https://discord.com/users/914492997847101440"> <img align="center" title="Discord" alt="Disc" height="30" width="30" src=https://user-images.githubusercontent.com/92516683/168924579-fda69a66-fb8e-4748-9e2f-0c9c95a15510.svg>
+     
 [![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/gabstabile)](https://www.facebook.com/gabriel.sstabile/)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-green?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/gabstabile)](https://www.instagram.com/g.s.stabile/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/gabstabile)](https://www.linkedin.com/in/gabriel-stabile)
@@ -60,8 +62,8 @@ Desenvolvimento de Sistema pela Faculdade Impacta de Tecnologia (FIT) e sou DIO 
 <h/>
  
 ## Meus dados do Github
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabstabile&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabstabile&layout=compact&langs_count=7&theme=dark)]("https://github.com/GabStabile")
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabStabile&show_icons=true&theme=dark)
+ [![gabstabile](https://github-readme-stats.vercel.app/api/top-langs/?username=GabStabile&hide=html&layout=compact=true&theme=dark)](https://github.com/GabStabile/)
   
   
 <p align="center">
