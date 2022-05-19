@@ -9,7 +9,7 @@
      <img align="center" title="Meu Discord" alt="GabStabile | Discord" height="53" width="53" src="https://user-images.githubusercontent.com/92516683/169195002-804745c3-f3df-42ec-ab01-8c3e1a6bd6f8.png">
   </a>
   <a href="https://www.linkedin.com/in/gabriel-stabile/">
-     <img align="center" title="Meu Linkedin" alt="Gabriel Stabile | Linkedin" height="53" width="53" src="https://user-images.githubusercontent.com/92516683/169195012-e228d8af-d486-44bc-83b9-b66a81ebf506.png">
+     <img align="center" title="Meu LinkedIn" alt="Gabriel Stabile | Linkedin" height="53" width="53" src="https://user-images.githubusercontent.com/92516683/169195012-e228d8af-d486-44bc-83b9-b66a81ebf506.png">
   </a>
 </div>
 
