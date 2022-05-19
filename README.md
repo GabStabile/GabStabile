@@ -16,12 +16,11 @@
 
 </br>
 
-
 <span align="center">
-Eu sou o Gabriel, bem vindo! <img alt="Gab-Js" src="https://user-images.githubusercontent.com/92516683/143255886-3ec90107-5088-4004-9ff7-08d4d135547e.gif" width="15px">
+Eu sou o Gabriel, bem vindo! <a href="https://github.com/GabStabile"> <img alt="Gab-Js" src="https://user-images.githubusercontent.com/92516683/143255886-3ec90107-5088-4004-9ff7-08d4d135547e.gif" width="15px"> </a>
 </span>  
 
-<h3 align="center">
+<h3 align="center"> 
 
 ```
 Apaixonado por tecnologia, amante de criptomoeda, estudante de Análise e 
@@ -48,8 +47,10 @@ Desenvolvimento de Sistema pela Faculdade Impacta de Tecnologia (FIT) e sou DIO 
 <kbd>Estudando:</kbd>
 <br />
 <br />
-  <img align="center" title="Java" alt="Gab-Java" height="30" width="30" src="https://user-images.githubusercontent.com/92516683/150599862-5f16886b-ea1a-4206-9982-87d861a710e4.svg">
-  <img align="center" title="Phyton" alt="Gab-Phyton" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <a href="https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html"> <img align="center" title="Java" alt="Gab-Java" height="30" width="30" src="https://user-images.githubusercontent.com/92516683/150599862-5f16886b-ea1a-4206-9982-87d861a710e4.svg"> </a>
+  <a href="https://docs.python.org/3/"> <img align="center" title="Phyton" alt="Gab-Phyton" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"> <img align="center" title="HTML5" alt="GabStabile-HTML5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> </a>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> <img align="center" title="CSS3" alt="GabStabile-CSS3" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> </a>     
 <br />
 <br />
 </kbd> 
@@ -60,9 +61,9 @@ Desenvolvimento de Sistema pela Faculdade Impacta de Tecnologia (FIT) e sou DIO 
 <kbd>Interesse em:</kbd> 
 <br />
 <br />
-  <img align="center" title="C Sharp" alt="Gab-Csharp" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" title="JavaScript" alt="Gab-JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" title="SQL" alt="Gab-SQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/"> <img align="center" title="C Sharp" alt="GabStabile-Csharp" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> <img align="center" title="JavaScript" alt="GabStabile-JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </a>
+   <a href="https://docs.microsoft.com/pt-br/sql/?view=sql-server-ver15"> <img align="center" title="SQL" alt="Gab-SQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> </a>
 <br />
 <br />
 </kbd>
