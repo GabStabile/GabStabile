@@ -1,7 +1,7 @@
 <h4 align="center">
    
    <a href="https://rickandmorty.fandom.com/wiki/Rick_Sanchez#Biography">
-     <img align="center" title="Vovô Rick codando" alt="GabStabile | Rick" height="300" width="450" src="https://user-images.githubusercontent.com/92516683/143147972-9a7e8488-9be7-4f25-a9b4-7169d4543fea.gif">
+     <img align="center" title="Vovô Rick codando" alt="GabStabile | Rick" height="300" width="500" src="https://user-images.githubusercontent.com/92516683/143147972-9a7e8488-9be7-4f25-a9b4-7169d4543fea.gif">
 <h/>
 
 <br>
