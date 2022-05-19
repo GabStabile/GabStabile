@@ -15,9 +15,9 @@
 </div>
 
 </br>
-
 <span align="center">
-Eu sou o Gabriel, bem vindo! <a href="https://github.com/GabStabile"> <img alt="Gab-Js" src="https://user-images.githubusercontent.com/92516683/143255886-3ec90107-5088-4004-9ff7-08d4d135547e.gif" width="15px"> </a>
+<h3>   
+Eu sou o Gabriel, bem vindo! <a href="https://github.com/GabStabile"> <img alt="Gab-Js" src="https://user-images.githubusercontent.com/92516683/143255886-3ec90107-5088-4004-9ff7-08d4d135547e.gif" width="15px"> </a> </h3>
 </span>  
 
 <h3 align="center"> 
@@ -28,7 +28,7 @@ Desenvolvimento de Sistema pela Faculdade Impacta de Tecnologia (FIT) e sou DIO 
 ```
 <h/>
    
-## Tech Staks & Tools <img align="center" title="Lupa 3D" alt="Tach Staks & Tools | Book" height="50" width="50" src="https://user-images.githubusercontent.com/92516683/169355350-1465ac51-cb4c-4365-a045-ee15faf893b8.png"> <br>
+## Tech Staks & Tools <img align="center" title="Book 3D" alt="Tach Staks & Tools | Book" height="50" width="50" src="https://user-images.githubusercontent.com/92516683/169355350-1465ac51-cb4c-4365-a045-ee15faf893b8.png"> <br>
 <kbd align="center">
 <kbd>Conhecimento em:</kbd>
 <br />
