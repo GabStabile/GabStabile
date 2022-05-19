@@ -27,8 +27,8 @@ Apaixonado por tecnologia, amante de criptomoeda, estudante de Análise e
 Desenvolvimento de Sistema pela Faculdade Impacta de Tecnologia (FIT) e sou DIO Campus Expert.
 ```
 <h/>
-  
-## Tech Staks & too🧠
+   
+## Tech Staks & Tools <img align="center" title="Lupa 3D" alt="Tach Staks & Tools | Book" height="50" width="50" src="https://user-images.githubusercontent.com/92516683/169355350-1465ac51-cb4c-4365-a045-ee15faf893b8.png"> <br>
 <kbd align="center">
 <kbd>Conhecimento em:</kbd>
 <br />
