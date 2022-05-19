@@ -23,7 +23,7 @@ Eu sou o Gabriel, bem vindo! <img alt="Gab-Js" src="https://user-images.githubus
 <h3 align="center">
 
 ```
-Apaixonado por tecnologia, amante de criptomoeda, futuro DEV, estudante de Análise e 
+Apaixonado por tecnologia, amante de criptomoeda, estudante de Análise e 
 Desenvolvimento de Sistema pela Faculdade Impacta de Tecnologia (FIT) e sou DIO Campus Expert.
 ```
 <h/>
@@ -48,7 +48,7 @@ Desenvolvimento de Sistema pela Faculdade Impacta de Tecnologia (FIT) e sou DIO 
 <br />
 <br />
   <img align="center" title="Java" alt="Gab-Java" height="30" width="30" src="https://user-images.githubusercontent.com/92516683/150599862-5f16886b-ea1a-4206-9982-87d861a710e4.svg">
-  <img align="center" title="C Sharp" alt="Gab-Csharp" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" title="Phyton" alt="Gab-Phyton" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <br />
 <br />
 </kbd> 
@@ -59,7 +59,7 @@ Desenvolvimento de Sistema pela Faculdade Impacta de Tecnologia (FIT) e sou DIO 
 <kbd>Interesse em:</kbd> 
 <br />
 <br />
-  <img align="center" title="Phyton" alt="Gab-Phyton" height="30" width="30" src="https://user-images.githubusercontent.com/92516683/150600387-8ca3eaa3-89fe-47a0-a928-8d9a9c5852a4.svg">
+  <img align="center" title="C Sharp" alt="Gab-Csharp" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" title="JavaScript" alt="Gab-JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" title="SQL" alt="Gab-SQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <br />
@@ -72,10 +72,8 @@ Desenvolvimento de Sistema pela Faculdade Impacta de Tecnologia (FIT) e sou DIO 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabStabile&show_icons=true&theme=dark)
  [![gabstabile](https://github-readme-stats.vercel.app/api/top-langs/?username=GabStabile&hide=html&layout=compact=true&theme=dark)](https://github.com/GabStabile/)
   
-  
-<p align="center">
 
-## Visitas ao meu perfil :detective: <br>
+## Visitas ao meu perfil <img align="center" title="Git" alt="GabStabile-Git" height="50" width="50" src="https://user-images.githubusercontent.com/92516683/169198288-2cd2c1a0-1816-4144-a2c1-714754abb495.png"> <br>
 <p align="center"> 
 <img alingn="center" src="https://profile-counter.glitch.me/gabstabile/count.svg"/>
 </p>
