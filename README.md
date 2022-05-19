@@ -6,15 +6,16 @@
    
 <div aligh="center">
   <a href="https://discord.com/users/914492997847101440">
-     <img align="center" alt="Leo-CSS" height="30" width="30" src="https://user-images.githubusercontent.com/86934921/169188863-53f9ad1d-c436-4965-9e46-f96980f4bdea.svg">
+     <img align="center" alt="GabStabile | Discord" height="53" width="53" src="https://user-images.githubusercontent.com/92516683/169195002-804745c3-f3df-42ec-ab01-8c3e1a6bd6f8.png">
   </a>
   <a href="https://www.linkedin.com/in/gabriel-stabile/">
-     <img align="center" alt="Leo-Js" height="23" width="30" src="https://user-images.githubusercontent.com/92516683/168949556-c5315ae0-96c0-4d2c-915f-b53b0ab3290c.svg">
+     <img align="center" alt="Gabriel Stabile | Linkedin" height="53" width="53" src="https://user-images.githubusercontent.com/92516683/169195012-e228d8af-d486-44bc-83b9-b66a81ebf506.png">
   </a>
 </div>
 
 </br>
-      
+
+
 <span align="center">
 Eu sou o Gabriel, bem vindo! <img alt="Gab-Js" src="https://user-images.githubusercontent.com/92516683/143255886-3ec90107-5088-4004-9ff7-08d4d135547e.gif" width="15px">
 </span>  
