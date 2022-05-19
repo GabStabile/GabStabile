@@ -2,13 +2,19 @@
 
 ![giphy](https://user-images.githubusercontent.com/92516683/143147972-9a7e8488-9be7-4f25-a9b4-7169d4543fea.gif)
 
-   <a href="https://discord.com/users/914492997847101440"> <img align="center" title="Discord" alt="Disc" height="30" width="30" src=https://user-images.githubusercontent.com/92516683/168924579-fda69a66-fb8e-4748-9e2f-0c9c95a15510.svg>
-     
-[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/gabstabile)](https://www.facebook.com/gabriel.sstabile/)
-[![Instagram Badge](https://img.shields.io/badge/-instagram-green?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/gabstabile)](https://www.instagram.com/g.s.stabile/)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/gabstabile)](https://www.linkedin.com/in/gabriel-stabile)
 <h/>
-  
+   
+<div aligh="center">
+  <a href="https://discord.com/users/914492997847101440">
+     <img align="center" alt="Leo-CSS" height="30" width="30" src="https://user-images.githubusercontent.com/86934921/169188863-53f9ad1d-c436-4965-9e46-f96980f4bdea.svg">
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-stabile/">
+     <img align="center" alt="Leo-Js" height="23" width="30" src="https://user-images.githubusercontent.com/92516683/168949556-c5315ae0-96c0-4d2c-915f-b53b0ab3290c.svg">
+  </a>
+</div>
+
+</br>
+      
 <span align="center">
 Eu sou o Gabriel, bem vindo! <img alt="Gab-Js" src="https://user-images.githubusercontent.com/92516683/143255886-3ec90107-5088-4004-9ff7-08d4d135547e.gif" width="15px">
 </span>  
