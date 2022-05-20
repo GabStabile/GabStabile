@@ -28,7 +28,7 @@ Desenvolvimento de Sistema pela Faculdade Impacta de Tecnologia (FIT) e sou DIO 
 ```
 <h/>
    
-## Tech Staks & Tools <img align="center" title="Book 3D" alt="Tach Staks & Tools | Book" height="32" width="32" src="https://user-images.githubusercontent.com/92516683/169356549-20f2417e-924c-44db-88c4-95626af51f22.png"> <br>
+## Tech Staks & Tools <img align="center" title="Coffee 3D" alt="Tach Staks & Tools | Coffee" height="30" width="30" src="https://user-images.githubusercontent.com/92516683/169356549-20f2417e-924c-44db-88c4-95626af51f22.png"> <br>
 <kbd align="center">
 <kbd>Conhecimento em:</kbd>
 <br />
