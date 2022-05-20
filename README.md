@@ -28,7 +28,7 @@ Desenvolvimento de Sistema pela Faculdade Impacta de Tecnologia (FIT) e sou DIO 
 ```
 <h/>
    
-## Tech Staks & Tools <img align="center" title="Coffee 3D" alt="Tach Staks & Tools | Coffee" height="30" width="30" src="https://user-images.githubusercontent.com/92516683/169356549-20f2417e-924c-44db-88c4-95626af51f22.png"> <br>
+## Tech Staks & Tools <a href="https://www.linkedin.com/in/gabriel-stabile/"> <img align="center" title="Coffee 3D" alt="Tach Staks & Tools | Coffee" height="30" width="30" src="https://user-images.githubusercontent.com/92516683/169356549-20f2417e-924c-44db-88c4-95626af51f22.png"> <br>
 <kbd align="center">
 <kbd>Conhecimento em:</kbd>
 <br />
@@ -75,7 +75,7 @@ Desenvolvimento de Sistema pela Faculdade Impacta de Tecnologia (FIT) e sou DIO 
  [![gabstabile](https://github-readme-stats.vercel.app/api/top-langs/?username=GabStabile&hide=html&layout=compact=true&theme=dark)](https://github.com/GabStabile/)
   
 
-## Visitas ao meu perfil <img align="center" title="Lupa 3D" alt="GabStabile | Lupa 3D" height="50" width="50" src="https://user-images.githubusercontent.com/92516683/169198288-2cd2c1a0-1816-4144-a2c1-714754abb495.png"> <br>
+## Visitas ao meu perfil <a href="https://www.linkedin.com/in/gabriel-stabile/"> <img align="center" title="Lupa 3D" alt="GabStabile | Lupa 3D" height="50" width="50" src="https://user-images.githubusercontent.com/92516683/169198288-2cd2c1a0-1816-4144-a2c1-714754abb495.png"> <br>
 <p align="center"> 
 <img alingn="center" src="https://profile-counter.glitch.me/gabstabile/count.svg"/>
 </p>
