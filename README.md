@@ -1,6 +1,6 @@
 <h4 align="center">
    
-   <a href="https://rickandmorty.fandom.com/wiki/Rick_Sanchez#Biography"><img align="center" title="Vovô Rick codando" alt="GabStabile | Rick" height="300" width="500" src="https://user-images.githubusercontent.com/92516683/143147972-9a7e8488-9be7-4f25-a9b4-7169d4543fea.gif">
+   <a href="https://rickandmorty.fandom.com/wiki/Rick_Sanchez#Biography"> <img align="center" title="Vovô Rick codando" alt="GabStabile | Rick" height="300" width="500" src="https://user-images.githubusercontent.com/92516683/143147972-9a7e8488-9be7-4f25-a9b4-7169d4543fea.gif">
 <h/>
 
 </br> 
@@ -28,7 +28,7 @@ Desenvolvimento de Sistema pela Faculdade Impacta de Tecnologia (FIT) e sou DIO 
 ```
 <h/>
    
-## Tech Staks & Tools <img align="center" title="Book 3D" alt="Tach Staks & Tools | Book" height="35" width="35" src="https://user-images.githubusercontent.com/92516683/169356549-20f2417e-924c-44db-88c4-95626af51f22.png"> <br>
+## Tech Staks & Tools <img align="center" title="Book 3D" alt="Tach Staks & Tools | Book" height="32" width="32" src="https://user-images.githubusercontent.com/92516683/169356549-20f2417e-924c-44db-88c4-95626af51f22.png"> <br>
 <kbd align="center">
 <kbd>Conhecimento em:</kbd>
 <br />
