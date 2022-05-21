@@ -28,7 +28,7 @@ Desenvolvimento de Sistema pela Faculdade Impacta de Tecnologia (FIT) e sou DIO 
 ```
 <h/>
    
-## Tech Staks & Tools <a href="https://www.linkedin.com/in/gabriel-stabile/"> <img align="center" title="Coffee 3D" alt="Tach Staks & Tools | Coffee" height="30" width="30" src="https://user-images.githubusercontent.com/92516683/169356549-20f2417e-924c-44db-88c4-95626af51f22.png"> </a> 
+## Tech Staks & Tools <a href="https://github.com/GabStabile"> <img align="center" title="Coffee 3D" alt="Tach Staks & Tools | Coffee" height="30" width="30" src="https://user-images.githubusercontent.com/92516683/169356549-20f2417e-924c-44db-88c4-95626af51f22.png"> </a> 
 <kbd align="center">
 <kbd>Conhecimento em:</kbd>
 <br />
