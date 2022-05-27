@@ -71,7 +71,7 @@ Desenvolvimento de Sistema pela Faculdade Impacta de Tecnologia (FIT) e sou DIO 
 <h/>
  
 ## Meus dados do Github
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabStabile&show_icons=true&theme=dark)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabStabile&show_icons=true&theme=dark)](https://github.com/GabStabile/)
  [![gabstabile](https://github-readme-stats.vercel.app/api/top-langs/?username=GabStabile&hide=html&layout=compact&theme=dark)](https://github.com/GabStabile/)
   
 
