@@ -17,7 +17,7 @@
 </br>
 <span align="center">
 <h3>   
-Eu sou o Gabriel, bem vindo! <a href="https://github.com/GabStabile"> <img alt="Gab-Js" src="https://user-images.githubusercontent.com/92516683/143255886-3ec90107-5088-4004-9ff7-08d4d135547e.gif" width="15px"> </a> </h3>
+Eu sou o Gabriel, bem vindo! <a href="https://github.com/GabStabile"> <img alt="Gab-Js" src="https://user-images.githubusercontent.com/92516683/143255886-3ec90107-5088-4004-9ff7-08d4d135547e.gif" height:"20" width="20"> </a> </h3>
 </span>  
 
 <h3 align="center"> 
