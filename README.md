@@ -24,7 +24,7 @@ Eu sou o Gabriel, bem vindo! <a href="https://github.com/GabStabile"> <img alt="
 
 ```
 Apaixonado por tecnologia, amante de criptomoeda, estudante de Análise e 
-Desenvolvimento de Sistema pela Faculdade Impacta de Tecnologia (FIT) e sou DIO Campus Expert.
+Desenvolvimento de Sistemas pela Faculdade Impacta de Tecnologia (FIT) e sou DIO Campus Expert.
 ```
 <h/>
    
