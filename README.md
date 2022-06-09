@@ -26,7 +26,7 @@ Eu sou o Gabriel, bem vindo! <a href="https://github.com/GabStabile"> <img alt="
 Apaixonado por tecnologia, amante de criptomoeda, estudante de Análise e 
 Desenvolvimento de Sistemas pela Faculdade Impacta de Tecnologia (FIT) e sou DIO Campus Expert.
 ```
-<h/>
+</h3>
    
 ## Tech Staks & Tools <a href="https://github.com/GabStabile"> <img align="center" title="Coffee 3D" alt="Tach Staks & Tools | Coffee" height="30" width="30" src="https://user-images.githubusercontent.com/92516683/169356549-20f2417e-924c-44db-88c4-95626af51f22.png"> </a> 
 <kbd align="center">
