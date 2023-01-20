@@ -71,10 +71,11 @@ Desenvolvimento de Sistemas pela Faculdade Impacta de Tecnologia (FIT) e sou DIO
 <h/>
  
 ## Meus dados do Github
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabStabile&show_icons=true&theme=dark)](https://github.com/GabStabile/)
-   [![gabstabile](https://github-readme-stats.vercel.app/api/top-langs/?username=GabStabile&layout=compact&langs_count=7&theme=dark)](https://github.com/GabStabile/)
+<div align="center">
+   <a href="https://github.com/GabStabile">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabStabile&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
   
-
 ## Visitas ao meu perfil <a href="https://www.linkedin.com/in/gabriel-stabile/"> <img align="center" title="Lupa 3D" alt="GabStabile | Lupa 3D" height="50" width="50" src="https://user-images.githubusercontent.com/92516683/169198288-2cd2c1a0-1816-4144-a2c1-714754abb495.png"> <br>
 <p align="center"> </a>
 <img alingn="center" src="https://profile-counter.glitch.me/gabstabile/count.svg"/>
