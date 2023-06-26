@@ -12,6 +12,9 @@
   <a href="https://www.linkedin.com/in/gabriel-stabile/">
      <img align="center" title="Meu LinkedIn" alt="Gabriel Stabile | Linkedin" height="53" width="53" src="https://user-images.githubusercontent.com/92516683/169195012-e228d8af-d486-44bc-83b9-b66a81ebf506.png">
   </a>
+   <a href="https://www.grupo7serv.com.br/">
+     <img align="center" title="Grupo 7Serv" alt="GabStabile | Grupo 7Serv" height="53" width="53" src="https://github.com/GabStabile/GabStabile/assets/92516683/6bddef16-e629-4730-b99b-a9b3621dafa4">
+  </a>
 </div>
 
 </br>
@@ -23,8 +26,9 @@ Eu sou o Gabriel, bem vindo! <a href="https://github.com/GabStabile"> <img alt="
 <h3 align="center"> 
 
 ```
-Apaixonado por tecnologia, amante de criptomoeda, estudante de Análise e 
-Desenvolvimento de Sistemas pela Faculdade Impacta de Tecnologia (FIT) e sou DIO Campus Expert.
+Hoje sirvo ao propósito de entregar o melhor em Serviços Terceirizados com o Grupo 7Serv!
+Apaixonado em empreender, aliado da tecnologia, estudante de Análise e 
+Desenvolvimento de Sistemas pela Faculdade Impacta de Tecnologia (FIT).
 ```
 </h3>
    
