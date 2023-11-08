@@ -23,14 +23,15 @@
 Eu sou o Gabriel, bem vindo! <a href="https://github.com/GabStabile"> <img alt="Gab-Js" src="https://user-images.githubusercontent.com/92516683/143255886-3ec90107-5088-4004-9ff7-08d4d135547e.gif" height:"20" width="20"> </a> </h3>
 </span>  
 
-<h3 align="center"> 
+<div aligh="center">
+<h3> 
 
 ```
-Hoje sirvo ao propósito de entregar o melhor em Serviços Terceirizados com o Grupo 7Serv!
 Apaixonado em empreender, aliado da tecnologia, estudante de Análise e 
 Desenvolvimento de Sistemas pela Faculdade Impacta de Tecnologia (FIT).
 ```
 </h3>
+</div>
    
 ## Tech Staks & Tools <a href="https://github.com/GabStabile"> <img align="center" title="Coffee 3D" alt="Tach Staks & Tools | Coffee" height="30" width="30" src="https://user-images.githubusercontent.com/92516683/169356549-20f2417e-924c-44db-88c4-95626af51f22.png"> </a> 
 <kbd align="center">
@@ -75,9 +76,10 @@ Desenvolvimento de Sistemas pela Faculdade Impacta de Tecnologia (FIT).
 <h/>
  
 ## Meus dados do Github
-<div align="left">
-   <a href="https://github.com/GabStabile">
-   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=GabStabile&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabStabile&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=2F81F7&bg_color=0d1117" alt="Gabriel Stabile github stats" /> 
+   
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabStabile&layout=compact&hide_border=true&title_color=FFFFFF&text_color=2F81F7&bg_color=0d1117" />
 </div>
   
 ## Visitas ao meu perfil <a href="https://www.linkedin.com/in/gabriel-stabile/"> <img align="center" title="Lupa 3D" alt="GabStabile | Lupa 3D" height="50" width="50" src="https://user-images.githubusercontent.com/92516683/169198288-2cd2c1a0-1816-4144-a2c1-714754abb495.png"> <br>
