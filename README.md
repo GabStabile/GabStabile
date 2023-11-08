@@ -17,11 +17,9 @@
   </a>
 </div>
 
-</br>
-<span align="center">
-<h3>   
-Eu sou o Gabriel, bem vindo! <a href="https://github.com/GabStabile"> <img alt="Gab-Js" src="https://user-images.githubusercontent.com/92516683/143255886-3ec90107-5088-4004-9ff7-08d4d135547e.gif" height:"20" width="20"> </a> </h3>
-</span>  
+<a href="https://www.linkedin.com/in/gabriel-stabile/">
+<img  title="Sou eu, Gabriel Stabile" src="https://readme-typing-svg.herokuapp.com?font=Open+&size=32&duration=4949&pause=927&color=99AEC8&center=true&vCenter=true&random=false&width=643&height=51&lines=My+nam's+Stabile%2C+welcome!;I'm+a+developer+and+entrepreneur%2C;let's+talk%3F+I'm+from+Brazil.">
+</a>
 
 <div aligh="center">
 <h3> 
@@ -38,13 +36,12 @@ Desenvolvimento de Sistemas pela Faculdade Impacta de Tecnologia (FIT).
 <kbd>Conhecimento em:</kbd>
 <br />
 <br />
-       <img align="center" title="Git" alt="GabStabile-Git" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+   <img align="center" title="Git" alt="GabStabile-Git" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
    <img align="center" title="GitHub" alt="GabStabile-GitHub" height="30" width="30" src="https://user-images.githubusercontent.com/92516683/176566216-d1abd510-592f-44c1-ba62-7967327ffb07.png">
    <img align="center" title="VSCode" alt="GabStabile-VisualStudioCode" height="30" width="30" src="https://user-images.githubusercontent.com/92516683/146268666-c67492d0-2438-4bb4-a97e-546aaf72e148.png">
    <img align="center" title="Photoshop" alt="GabStabile-Ps" height="30" width="30" src="https://user-images.githubusercontent.com/92516683/150600654-912700cd-9e3b-429c-b85c-a88cd3dbd8a6.svg">
 </kbd>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
 <P>
 <p>
 
