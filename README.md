@@ -25,8 +25,8 @@
 <h3> 
 
 ```
-Apaixonado em empreender, aliado da tecnologia, estudante de Análise e 
-Desenvolvimento de Sistemas pela Faculdade Impacta de Tecnologia (FIT).
+Apaixonado em empreender, entusiasta de novas tecnologias e 
+Web3.
 ```
 </h3>
 </div>
