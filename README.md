@@ -11,6 +11,8 @@
     </a>
    <!-- OTH Links -->
   <a href="https://open.spotify.com/playlist/5R41nF2IDZdhN4FNbCzrVV?si=0173b49e6d5d4b16" target="_blank"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+   <!-- Profile Views -->
+   <img align="right" src="https://komarev.com/ghpvc/?username=gabstabile&color=2F81F7">
 </div>
 
 
