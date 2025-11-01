@@ -7,14 +7,14 @@
       <img title="My LinkedIn" alt="Gabriel Stabile | Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
    </a>
    <a target='_blank' href="https://stabile.framer.website/"> 
-      <img title="My LinkedIn" alt="Gabriel Stabile | Portfolio" src="https://img.shields.io/badge/-Portfolio-0A0A0A?style=for-the-badge&logoColor=white" target="_blank"> 
+      <img title="My Portfolio" alt="Gabriel Stabile | Portfolio" src="https://img.shields.io/badge/-Portfolio-0A0A0A?style=for-the-badge&logoColor=white" target="_blank"> 
    </a>
    <a target='_blank' href="https://x.com/gabbstabile"> 
-      <img title="My Twitter" alt="Gabriel Stabile | X" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> 
+      <img title="My X (Twitter)" alt="Gabriel Stabile | X" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> 
    </a>
    <!-- OTH Links -->
    <a href="https://open.spotify.com/playlist/5R41nF2IDZdhN4FNbCzrVV?si=0173b49e6d5d4b16" target="_blank"> 
-      <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
+      <img title="My playlist for u" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
    </a>
 </div>
 
